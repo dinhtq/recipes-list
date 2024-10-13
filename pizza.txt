@@ -16,3 +16,6 @@ Pizza Dough Ingredients:
 2 tablespoons olive oil
 1 teaspoon sugar
 2 teaspoons salt
+
+Crust:
+knead dough for 10 minutes
