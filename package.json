@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "vite": "^5.4.9"
-  }
+  },
+  "description": ""
 }
