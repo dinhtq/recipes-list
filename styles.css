@@ -1,0 +1,29 @@
+/* Basic styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Style for the heading */
+h1, h2 {
+    color: #4CAF50;
+}
+
+/* Styling the ordered list */
+ol {
+    padding-left: 20px;
+    list-style-type: decimal; /* You can use 'decimal', 'lower-alpha', 'upper-roman', etc. */
+}
+
+/* Styling the unordered list */
+ul {
+    padding-left: 20px;
+    list-style-type: disc; /* You can use 'circle', 'square', 'disc', etc. */
+}
+
+/* Style for list items */
+li {
+    margin: 5px 0;
+}
